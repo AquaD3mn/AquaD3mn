@@ -26,7 +26,8 @@ You can contact me via:
 - LinkedIn: [It's my Space](https://linkedin.com/in/josy-georgi)
 
 ## ⚡ Fun Fact
-Did you know that the first computer virus was created in 1983? It was called "Elk Cloner" and infected Apple II systems!
+Did you know that the first computer bug was an actual insect? In 1947, a team of engineers found a moth stuck in one of the relays of the Harvard Mark II computer!
+
 
 ## ✨ More
 It's just the start, something is cooking!
