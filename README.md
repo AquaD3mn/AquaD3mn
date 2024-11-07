@@ -13,11 +13,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 👋 Hello, I'm @AquaD3mn!
+![THM Profile Badge](https://github.com/AquaD3mn/AquaD3mn/blob/main/Aquadaemon.png)
 
 ## 👀 About Me
 I'm passionate about **Cybersecurity** and love exploring new challenges in this field.
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/Aquadaemon.png" alt="Your Image Badge" />
 
 ## 💞️ Collaboration
 I'm looking to collaborate on **security-based projects**! If you have an idea or a project in mind, feel free to reach out!
