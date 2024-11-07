@@ -17,6 +17,8 @@ You can click the Preview link to take a look at your changes.
 ## 👀 About Me
 I'm passionate about **Cybersecurity** and love exploring new challenges in this field.
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1296062" style='border:none;'></iframe>
+
 ## 💞️ Collaboration
 I'm looking to collaborate on **security-based projects**! If you have an idea or a project in mind, feel free to reach out!
 
